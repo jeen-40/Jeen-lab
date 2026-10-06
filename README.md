@@ -1,4 +1,5 @@
 <div align="center">
+.
   <br>
   <img src="https://img.shields.io/badge/Genome%20Sentinel-v1.0.0-6366f1?style=for-the-badge&logo=python&logoColor=white" alt="Genome Sentinel">
   <br>
@@ -219,4 +220,4 @@ Genome Sentinel integrates with **NVIDIA GenMol NIM** for AI-powered de novo mol
 
 ## License
 
-MIT
+MIt
